@@ -18,17 +18,17 @@ The system helps traders and analysts evaluate portfolio risk and market sentime
 
 ##  Features
 
-✔ Download historical price data using Yahoo Finance  
-✔ Compute technical indicators & returns  
-✔ Train ML models (Logistic Regression, Random Forest)  
-✔ Estimate probability of loss for next day  
-✔ Fetch Fear & Greed Index  
-✔ News sentiment scoring  
-✔ Risk metrics (Sharpe, Volatility, Max Drawdown, VaR)  
-✔ Generate equity curve chart  
-✔ Auto-generate HTML report  
-✔ Send report via email  
-✔ Can run automatically with Windows Task Scheduler  
+ Download historical price data using Yahoo Finance  
+ Compute technical indicators & returns  
+ Train ML models (Logistic Regression, Random Forest)  
+ Estimate probability of loss for next day  
+ Fetch Fear & Greed Index  
+ News sentiment scoring  
+ Risk metrics (Sharpe, Volatility, Max Drawdown, VaR)  
+ Generate equity curve chart  
+ Auto-generate HTML report  
+ Send report via email  
+ Can run automatically with Windows Task Scheduler  
 
 ---
 
